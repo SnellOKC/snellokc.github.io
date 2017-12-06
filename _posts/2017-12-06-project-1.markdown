@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2017-12-06
+img: cabin.png
+alt: image-alt
+project-date: December 2017
+client: Start Bootstrap
+category: Data Visualization
+description: 2000 random data points with a normal distribution binned into hexagons.
+
+---
