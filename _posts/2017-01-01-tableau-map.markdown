@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2017
+date: Jan 2017
 img: tableau_map.png
 alt: image-alt
 project-date: Jan 2017
